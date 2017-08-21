@@ -2,6 +2,10 @@
 
 FLSCup is an OI competition held on Contest Hunter on June 6, 2014.
 
+**Notes:** 
+115.47.40.15 was one of my servers when I was in grade 8, which no longer exists. The links within the problem description to that server no longer work as well.
+I will try my best to recover those files on that server, but nothing is guaranteed. Sorry
+
 
 # Original info on Contest Hunter
 
