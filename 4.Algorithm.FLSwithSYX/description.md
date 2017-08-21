@@ -1,3 +1,4 @@
+# \[算法\]FLS和SYX的故事
 ### 题目描述
 
 FLS信息学竞赛又拿了第一名，这让他的好机油SYX很开心（大雾）。于是SYX推倒了FLS，把他关到了一个自己设计的监狱里面。这个监狱是一个![](http://latex.codecogs.com/gif.latex?m%5Ctimes%20n)的网格，FLS想从他被关押的位置![](http://latex.codecogs.com/gif.latex?%5Cleft%20%28%20s_x%2C%20s_y%20%5Cright%20%29)移动到监狱出口![](http://latex.codecogs.com/gif.latex?%5Cleft%20%28%20e_x%2C%20e_y%20%5Cright%20%29)，但他每次只能可以向上下左右四个方向移动一格。
