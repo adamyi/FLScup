@@ -2,6 +2,8 @@
 
 FLSCup is an OI competition held on Contest Hunter on June 6, 2014.
 
+Original URL on Contest Hunter: [Click here](http://contest-hunter.org:83/contest/CH%20Round%20%2337%20-%20EAJUDGE%E4%BA%BA%E7%89%A9%E4%B9%8BFLS%E6%9D%AF)
+
 **Notes:** 
 115.47.40.15 was one of my servers when I was in grade 8, which no longer exists. The links within the problem description to that server no longer work as well.
 I will try my best to recover those files on that server, but nothing is guaranteed. Sorry
@@ -14,15 +16,15 @@ I will try my best to recover those files on that server, but nothing is guarant
 <h3><strong>恭喜前五名获奖选手：</strong></h3>
 
 <pre>
-<a href="http://www.contesthunter.org/user/luoruixuan" style="color: rgb(255, 140, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="猎手(Hunter)">luoruixuan</a> <strong>565</strong>
+<a href="http://contest-hunter.org:83/user/luoruixuan" style="color: rgb(255, 140, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="猎手(Hunter)">luoruixuan</a> <strong>565</strong>
 
-<a href="http://www.contesthunter.org/user/390467054" style="color: rgb(0, 153, 204); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="大牛(Bull)">390467054</a> <strong>200</strong>
+<a href="http://contest-hunter.org:83/user/390467054" style="color: rgb(0, 153, 204); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="大牛(Bull)">390467054</a> <strong>200</strong>
 
-<a href="http://www.contesthunter.org/user/Demon_Hunter" style="color: rgb(0, 128, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="领先学习者(Advanced Learner)">Demon_Hunter</a> <strong>170</strong>
+<a href="http://contest-hunter.org:83/user/Demon_Hunter" style="color: rgb(0, 128, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="领先学习者(Advanced Learner)">Demon_Hunter</a> <strong>170</strong>
 
-<a href="http://www.contesthunter.org/user/faebdc" style="color: rgb(0, 153, 204); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="大牛(Bull)">faebdc</a> <strong>140</strong>
+<a href="http://contest-hunter.org:83/user/faebdc" style="color: rgb(0, 153, 204); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="大牛(Bull)">faebdc</a> <strong>140</strong>
 
-<a href="http://www.contesthunter.org/user/lby2013" style="color: rgb(0, 128, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="领先学习者(Advanced Learner)">lby2013</a> <strong>100</strong></pre>
+<a href="http://contest-hunter.org:83/user/lby2013" style="color: rgb(0, 128, 0); text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', SimHei, sans-serif; font-size: 14px; line-height: 20px;" title="领先学习者(Advanced Learner)">lby2013</a> <strong>100</strong></pre>
 
 <h2><strong>请获奖者于比赛结束后3天内联系adamyi，否则视为放弃奖品</strong></h2>
 
